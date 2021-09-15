@@ -5,7 +5,7 @@ This is the default rendering pipeline, so you will need to do a material conver
 
 A sample scene is included, so please use it as a reference.
 
-##Specifications
+## Specifications
 A total of 14 characters can be displayed, including single-byte characters from '0' to '9', 'blank', "#", "-", "/", ". ." etc. can be displayed.
 
 There are two display methods, which can be changed from the "Inspector view".
